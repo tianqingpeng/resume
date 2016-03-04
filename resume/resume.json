@@ -1,0 +1,129 @@
+{
+  "data_lang": "zh-CN",
+  "ga_id": "UA-63818301-2",
+  "resume_title": "田清鹏",
+  "name": "田清鹏",
+  "job_description": ["前端工程师", "软件工程师"],
+  "contact": {
+    "phone":"18883862154",
+    "email": "191708460@qq.com",
+    "wechat": {
+      "id": "tx9461",
+      "qrcode": "static/wechat.svg"
+    },
+    "sinaweibo": {
+      "id": "夜之小生",
+      "url": "http://weibo.com/5867809658"
+    },
+    "github": {
+      "id": "tianqingpeng"
+    }
+  },
+  "links": [{
+    "type": "repo",
+    "url": "https://github.com/tianqingpeng"
+  }, {
+    "type": "pdf",
+    "url": "static/tianqingpeng.pdf"
+  }, {
+    "type": "zhihu",
+    "url": "https://www.zhihu.com/people/tian-xi-6-77"
+  }],
+  "education": [{
+    "type": "undergraduate",
+    "name": "重庆邮电大学",
+    "major": "软件工程",
+    "start": "2013",
+    "end": "2017",
+    "honor": [
+      "2013 - 2014 学年度校**三等奖学金**",
+      "2014 - 2015 学年度校**二等奖学金**"
+    ]
+  }],
+  "experience": [ {
+    "type": "project",
+    "techtype": "frontend",
+    "project_type": "personal",
+    "name": "Tour",
+    "source": "https://github.com/tianqingpeng/tour",
+    "description": [
+      "基于 `HTML5` 与 `CSS3` 的响应式布局网页 ",
+      "使用 `CSS3` 媒介查询进行样式的规划, 利用 `CSS3` 中的一些新特性进行网页的布局"
+    ],
+    "stack": ["three.js", "mongodb", "express"],
+    "compatibility": "IE10+"
+  }, {
+    "type": "project",
+    "techtype": "frontend",
+    "project_type": "personal",
+    "name": "",
+    "source": "http://www.hong-xi.com/cn/exchanges.html",
+    "description": [
+      "一个基于电信网的仿站设计",
+      "使用 `CSS` 与  `JavaScript` 实现网页中的布局, 对于一些基本的布局有所实践",
+      "使用 `Jquery` 来提升开发的速度, 能实现一些基本的交互效果, 提高网站的性能",
+      "通过此实践后, 初步接触了开发的流程,以及进一步接触了数据交互,网站性能等知识"
+    ],
+    "stack": ["jade", "postcss", "markdown",  "webpack", "gulp"],
+    "compatibility": "IE9+"
+  }, {
+    "type": "project",
+    "techtype": "frontend",
+    "project_type": "personal",
+    "name": "Le Gou",
+    "source": "https://github.com/tianqingpeng/shopping",
+    "description": [
+      "基于 `Nodejs` 的购物平台的实践",
+      "使用 `Ejs` 模板，动态渲染页面",
+      "使用 `Bootstrap` 框架来渲染写好的 `Ejs` 样式",
+      "使用 `Express` 与 `MongoDB` 提供物品数据, 实现基本的增删改查的功能"
+    ],
+    "stack": ["three.js", "mongodb", "express"],
+    "compatibility": "IE10+"
+  }],
+  "skills": [{
+    "type": "frontend",
+    "item": [{
+      "summary": "`HTML` / `CSS`",
+      "description": [
+        "能够编写语义化的 `HTML`，模块化的 `CSS`，实现较复杂的布局与动画",
+        "了解已标准化的 `HTML5` / `CSS3` 新特性，实验项目中能尝试使用未广泛实现的新标准"
+      ]
+    }, {
+      "summary": "`ECMAScript`（`JavaScript`）",
+      "description": [
+        "熟悉 `ECMAScript`（`JavaScript`）",
+        "了解 `ECMAScript` 新标准与相关后处理工具并能在项目中使用",
+        "对于ES6中一些API也有基本的了解"
+      ]
+    }, {
+      "summary": "`DOM` / `BOM` 及常见 `Web API`",
+      "description": [
+        "熟悉原生 `DOM` 与 `BOM` 的使用及相关标准（W3C）",
+        "对`Web Workers` / `WebSocket` / `Web Components`等 API 有一定的了解"
+      ]
+    }, {
+      "summary": "前端工程实践",
+      "description": [
+        "对于 `jQuery` / `Bootstrap` 有一定的的使用经验, 阅读过部分源代码",
+        "了解`Grunt` 或 `Gulp`自动化构建工具，并会使用一些基本的 `Gulp`知识"
+      ]
+    }]
+  }, {
+    "type": "backend",
+    "item": [{
+      "summary": "`Node.js`",
+      "description": [
+        "能够使用 `Node.js API` / `Express` / `Koa` 搭建简单的后端程序与数据库交互",
+        "了解异步 I/O 及事件驱动的服务器模型，以及常见的**异步编程**解决方案"
+      ]
+    }, {
+      "summary": "其他",
+      "description": [
+        "对 `Java` 有一定的了解,能够使用`Java`与`Mysql`搭建简单的后端程序",
+        "有使用过 `MongoDB` / `MySQL` 数据库",
+        "了解 `HTTP`（1.x / 2）、`WebSocket` 等协议"
+      ]
+    }]
+  }]
+}
